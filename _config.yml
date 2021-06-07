@@ -1,0 +1,8 @@
+title: HTML, CSS, and Javascript for web developers
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
